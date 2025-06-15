@@ -1,16 +1,22 @@
-## Hi there 👋
+## Yo. To keep it simple:
 
-<!--
-**szymon227G/szymon227G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate artist and a game developer from Poland.
+- My main focus is Game Design, 2D/3D Art & Animation, Programming and Story writing.
+- 100% self-taught, jack of all trades, I specialize in getting stuff done fast on my own.
+- My current focus right now is my Roblox game, Grace, which I'm the main developer for.
+- Started young from an age of 10, I've learned a lot since then.
+- Passion from faith, most of my works based on my passion towards religion.
+- Borderline workoholic, work everyday, struggle to focus on things that aren't working stuff (like school (yuck)).
+- Always trying to get out of my comfort zone, so I can learn through baptism by fire.
+- Trying to keep a good mood and spread it onto others :)
 
-Here are some ideas to get you started:
+## The tools I work with are:
+- Roblox Studio for game making projects and programming
+- Blender for 3D modeling & animating
+- LibreSprite/Paint.net for my 2D stuff
+- Cavalry for vector art
+- Visual Studio Code for the rare off chance I actually do a school coding assignment, or make a cool website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Code languages:
+- Primary: Luau, JavaScript
+- Secondary: HTML, Python, PHP, SQL
