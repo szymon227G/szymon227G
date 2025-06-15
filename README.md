@@ -1,6 +1,8 @@
-## Yo. To keep it simple:
+# Yo. To keep it simple:
+(no emojis here, I am not trying to persuade you into thinking I'm writing this with a smile on my face.)
 
 I'm a passionate artist and a game developer from Poland.
+- Real name is Szymon, but you can just call me simon.
 - My main focus is Game Design, 2D/3D Art & Animation, Programming and Story writing.
 - 100% self-taught, jack of all trades, I specialize in getting stuff done fast on my own.
 - My current focus right now is my Roblox game, Grace, which I'm the main developer for.
