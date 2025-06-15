@@ -6,7 +6,7 @@ I'm a passionate artist and a game developer from Poland.
 - My current focus right now is my Roblox game, Grace, which I'm the main developer for.
 - Started young from an age of 10, I've learned a lot since then.
 - Passion from faith, most of my works based on my passion towards religion.
-- Borderline workoholic, work everyday, struggle to focus on things that aren't working stuff (like school (yuck)).
+- Borderline workoholic, work everyday, struggle to focus on things that aren't working on stuff (like school).
 - Always trying to get out of my comfort zone, so I can learn through baptism by fire.
 - Trying to keep a good mood and spread it onto others :)
 
